@@ -7,6 +7,5 @@ The goal of this exercise is to predict the presence of voice of gender using th
 Predict the pattern of voice whether male or female.
 Use best classification algorithm for prediction.
 
-
-To check my note book please check here
-
+ 
+To check my note book please check [here](https://github.com/sivaranjanivedhagiri/voice-recognition/blob/main/voice-recognition.ipynb).
